@@ -1,1 +1,2 @@
-# demo_shell1
+# Hands-on & Discussion
+* Meaning of special variables $@, $^, $<
